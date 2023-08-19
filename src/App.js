@@ -10,7 +10,7 @@ const DUMMY_EXPENSES = [
     amount: 15.0,
     date: new Date(2023, 6, 20),
   },
-  { id: "e2", title: "New TV", amount: 799.49, date: new Date(2023, 2, 12) },
+  { id: "e2", title: "Books", amount: 300, date: new Date(2023, 7, 12) },
   {
     id: "e3",
     title: "Books",
@@ -23,7 +23,7 @@ const DUMMY_EXPENSES = [
     amount: 450,
     date: new Date(2021, 5, 12),
   },
-  { id: "e5", title: "New Jeans", amount: 79.49, date: new Date(2023, 6, 25) }
+  { id: "e5", title: "New Jeans", amount: 79.49, date: new Date(2023, 1, 25) }
 ];
 
 function App() {
